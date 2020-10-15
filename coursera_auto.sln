@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coursera_auto", "coursera_auto\coursera_auto.csproj", "{4CCBA83A-43C7-4B2C-AC27-A48247561599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CCBA83A-43C7-4B2C-AC27-A48247561599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCBA83A-43C7-4B2C-AC27-A48247561599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCBA83A-43C7-4B2C-AC27-A48247561599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCBA83A-43C7-4B2C-AC27-A48247561599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB956E4-2A2C-4480-B0F5-4DAC5FC680C2}
+	EndGlobalSection
+EndGlobal

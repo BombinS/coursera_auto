@@ -1,0 +1,9 @@
+.vs
+*.cache
+*.suo
+/*/bin/*
+/*/obj/*
+*.feature.cs
+TestResults/*
+/packages/
+
